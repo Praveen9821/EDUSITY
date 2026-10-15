@@ -1,3 +1,3 @@
 # Edusity a University website
 
-## Live Preview: edusity-zeta-pink.vercel.app
+Live Preview: edusity-zeta-pink.vercel.app
